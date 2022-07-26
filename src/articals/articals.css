@@ -1,0 +1,27 @@
+.articalscontainer {
+  background-color: #edf2f7;
+  padding: 85px;
+  margin-top: 90px;
+}
+
+.articalssubcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px 0px;
+  flex-wrap: wrap;
+
+}
+
+.viewall-txt {
+  font-family: 'Inter';
+  font-size: 15px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.15px;
+  color: #04004d;
+  text-align: right;
+  margin-top: 10px;
+}

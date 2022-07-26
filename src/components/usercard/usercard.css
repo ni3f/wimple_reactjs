@@ -1,0 +1,51 @@
+.usercardcontainer {
+  justify-content: space-between;
+  
+}
+
+.userimgcontainer {
+  height: 200px;
+  width: 180px;
+  /* background-color: red; */
+  display: flex;
+  align-self: flex-start;
+}
+
+.financial-profession {
+  font-family: 'Inter';
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.4px;
+  color: #04004d;
+}
+
+.financial-name {
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #04004d;
+}
+
+.location {
+  font-family: 'Inter';
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: 0.5px;
+  color: #04004d;
+}
+
+.namecontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

@@ -1,0 +1,98 @@
+a {
+  text-decoration-color: transparent;
+  transition: 0.50s;
+  color: #04004d;
+}
+
+a:hover {
+  text-decoration-color: blue;
+  color: blue;
+  transition: 0.50s;
+
+}
+
+.footer-container {
+  padding: 45px 80px;
+  background-color: #fafafa;
+}
+
+.footer-subcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+}
+
+.footer-subcontainer,
+.with-margin-top {
+  margin-top: 36px;
+}
+
+.footer-options {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  text-align: left;
+}
+
+.other-options-title {
+  font-family: 'Inter';
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.19px;
+  color: #04004d;
+
+}
+
+.other-options-subtitle {
+  font-family: 'Inter';
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.15px;
+  color: #04004d;
+  margin-top: 6px;
+}
+
+.other-options-small-title {
+  font-family: 'Inter';
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.15px;
+  color: #303030;
+  margin-top: 6px;
+}
+
+
+.other-options-line {
+  width: 1.5px;
+  height: 14px;
+  background-color: #303030;
+  margin: 6px 10px 0px 10px;
+
+}
+
+.other-options-logo {
+  width: 131px;
+  height: 45px;
+  object-fit: contain;
+  margin-top: 36px;
+}
+
+
+.other-options-social-logo {
+  width: 23px;
+  height: 23px;
+  object-fit: fill;
+  margin-left: 12px;
+}

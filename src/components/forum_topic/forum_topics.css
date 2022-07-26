@@ -1,0 +1,10 @@
+.forumtopics-container {
+  margin: 50px 0px;
+  padding: 85px;
+}
+
+.title-wrapper {
+  display: flex;
+  flex-direction: row;
+  
+}

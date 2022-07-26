@@ -1,0 +1,28 @@
+
+.userinfotitle {
+  margin-right: 150px;
+  align-items: flex-start;
+  text-align: left;
+}
+.primarytxt {
+  font-family: "Inter";
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.5px;
+  color: #04004d;
+
+}
+
+.secondarytxt {
+  font-family: "Inter";
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.5px;
+  color: #00d385;
+}

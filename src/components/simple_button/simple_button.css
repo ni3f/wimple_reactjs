@@ -1,0 +1,24 @@
+.simple-button {
+  padding: 24px;
+  margin: 14px 44px 14px 0;
+  width: 180px;
+  border-radius: 4px;
+  background-color: #04004d;
+  transition: 0.50s;
+
+  font-family: 'Inter';
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.34px;
+  text-align: center;
+  color: white;
+}
+
+.simple-button:hover {
+  box-shadow: 0 0.8em 0.8em -0.2em #04000087;
+  transform: translateY(-0.25em);
+  transition: 0.50s;
+}

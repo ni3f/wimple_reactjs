@@ -1,0 +1,66 @@
+.articlecardcontainer {
+  justify-content: space-between;
+  width: 250px;
+  text-align: left;
+  
+}
+
+.articleimgcontainer {
+  height: 180px;
+  width: 250px;
+  display: flex;
+  align-self: flex-start;
+   border-radius: 8px;
+}
+
+.article-des {
+  font-family: 'Inter';
+  font-size: 14px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: 0.25px;
+  color: #04004d;
+  text-align: left;
+  margin-top: 14px;
+}
+
+.article-name {
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  display: flex;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #04004d;
+  margin-top: 14px;
+}
+
+.article-by {
+  font-family: 'Inter';
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: 0.1px;
+  color: #04004d;
+  margin-top: 2px;
+}
+
+.article-date {
+  font-family: 'Inter';
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.09px;
+  color: #04004d;
+  margin-top: 2px;
+}
