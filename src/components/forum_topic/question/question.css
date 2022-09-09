@@ -1,6 +1,6 @@
 .question-container {
   width: 300px;
-  height: 212px;
+  /* height: 212px; */
   padding: 40px;
   border-radius: 8px;
   border: solid 9px #f9f9f9;
@@ -68,13 +68,8 @@
   color: white;
 }
 
-.btn-answer:hover{
+.btn-answer:hover {
   box-shadow: 0 0.8em 0.8em -0.2em #04000087;
   transform: translateY(-0.25em);
   transition: 0.50s;
 }
-
-
-  
-
-

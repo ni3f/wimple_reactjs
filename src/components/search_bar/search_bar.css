@@ -1,4 +1,3 @@
-
 .main {
   margin-top: 81px;
   align-items: center;
@@ -14,7 +13,7 @@
 }
 
 .searchtxt {
-  font-family: "Inter";
+  /* font-family: "Inter"; */
   font-size: 20px;
   font-weight: 400;
   font-stretch: normal;
@@ -36,7 +35,7 @@
 }
 
 .searchbtntxt {
-  font-family: "Inter";
+  /* font-family: "Inter"; */
   font-size: 14px;
   font-weight: 600;
   font-stretch: normal;

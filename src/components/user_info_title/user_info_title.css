@@ -1,11 +1,11 @@
-
 .userinfotitle {
   margin-right: 150px;
   align-items: flex-start;
   text-align: left;
 }
+
 .primarytxt {
-  font-family: "Inter";
+  /* font-family: "Inter"; */
   font-size: 40px;
   font-weight: bold;
   font-stretch: normal;
@@ -17,7 +17,7 @@
 }
 
 .secondarytxt {
-  font-family: "Inter";
+  /* font-family: "Inter"; */
   font-size: 40px;
   font-weight: bold;
   font-stretch: normal;

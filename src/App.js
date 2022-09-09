@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 import Header from "./components/header/header";
 import MainTitle from "./components/text_components/main_title/main_title";
 import SearchBar from "./components/search_bar/search_bar";
@@ -11,11 +12,11 @@ import OtherOptions from "./other_options/other_options";
 function App() {
   return (
     <div className="App">
-      <header>
-        <Header />
-      </header>
+      <Header />
       <MainTitle />
-      <div className="subtitle">Find Top Rated Financial Professionals</div>
+      <div className="mt-6 text-xl font-bold text-subtitle ">
+        Find Top Rated Financial Professionals
+      </div>
       <SearchBar />
       <Financers />
       <ForumTopics />

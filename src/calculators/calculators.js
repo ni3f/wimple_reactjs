@@ -6,8 +6,8 @@ import "./calculators.css";
 const Calculators = () => (
   <div className="cal-main-container">
     <div className="cal-sub-container-1">
-      <span class="calctitle">
-        A<span class="calctitle-white"> “Calculated” </span>Approach to your
+      <span className="calctitle">
+        A<span className="calctitle-white"> “Calculated” </span>Approach to your
         Finances
       </span>
       <div className="calc-des">
@@ -19,7 +19,7 @@ const Calculators = () => (
       <div className="try-title">Try our calculators 👇</div>
       <div className="calc-buttons">
         <SimpleButton text="Saving Calculator" />
-        <SimpleButton text="401K Calculator" />
+        <SimpleButton text="401K Calculators" />
       </div>
       <div className="try-title">See more calculators {">"}</div>
     </div>
